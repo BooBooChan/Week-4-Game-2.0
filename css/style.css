@@ -1,6 +1,6 @@
 p{width:30%;}
 h1{width:100%;}
 img{opacity:0.7;}
-#player{position:"relative";}
-#opponent{position:"relaitve";}
-#eliminate{position:"relative";}
+.player{position:"relative";}
+.opponent{position:"relaitve";}
+.eliminate{position:"relative";}
